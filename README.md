@@ -30,11 +30,13 @@ Please note that these links can be only accessed through a Widevine Server. Ins
 
 ## Download the m3u8 file and modify the inputstream.adaptive.license_key to the Widevine Server URL
 1. Download "unifi.m3u8" by [clicking here](https://github.com/weareblahs/unifi-playtv-mpd/raw/main/unifi.m3u8).
-2. Open it with Notepad. (SHORTCUT: Windows key + R > notepad > Enter)
-3. In notepad, press "Ctrl + H" (Replace).
+      - Using wget? then copy the command below:
+      ```wget https://github.com/weareblahs/unifi-playtv-mpd/raw/main/unifi.m3u8
+3. Open it with Notepad. (SHORTCUT: Windows key + R > notepad > Enter)
+4. In notepad, press "Ctrl + H" (Replace).
       - In "Find What", type in "WIDEVINE_SERVER_URL_HERE".
       - In "Replace With", paste the Widevine Server URL in full and remove the quotes.
-4. Save it. Now you have a m3u8 file ready to import.
+5. Save it. Now you have a m3u8 file ready to import.
 
 ## Importing into compatible IPTV players
 ### Before we start the importing
