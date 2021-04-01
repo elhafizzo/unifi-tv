@@ -4,7 +4,7 @@ This is a m3u8 playlist file for Unifi playTV / Unifi TV. These links don't use 
 # Tested on what device / app?
 Works well on Tivimate v2.8.0 and TVirl (Xiaomi Mi Box S).
 ## What Internet Connection?
-Tested on Unifi Air. It will play on multiple resolutions according to the Internet speed (ranging from 576p to 1080p). Unifi Fibre Broadband might get better speeds when playing.
+Tested on Unifi Air. It will play on multiple resolutions according to the Internet speed (ranging from 576p to 1080p). Unifi Fibre Broadband might get better speeds when playing. IMPORTANT: Not tested on Maxis.
 
 # Other special stuffs?
 Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Subtitles (Mostly Malay / Chinese), Adaptive Resolution (automatic resolution switching according to your Internet connection).
