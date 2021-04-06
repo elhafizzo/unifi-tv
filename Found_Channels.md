@@ -3,12 +3,11 @@ Here are the list of channels that I found through the URL, but haven't added ye
 (Format: http://1.9.62.158/PLTV/88888888/224/(ID)/(ID).mpd)  
 Ranges: 400-500  
 3221227486 (Euronews)  
-Ranges: 500-600
+Ranges: 500-600  
 3221227543 (Channel NewsAsia)  
 3221227586 (BBC World News)  
 3221227595 (DW English)  
-
-Ranges: 600-700 
+Ranges: 600-700  
 3221227600 (Luxe TV HD)  
 3221227619 (ABC Australia)  
 3221227623 (Al Jazeera)  
