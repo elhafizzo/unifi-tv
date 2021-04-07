@@ -1,10 +1,16 @@
 # What's this?
-This is a m3u8 playlist file for Unifi playTV / Unifi TV. These links don't use normal HLS / MPEG-TS Livestreams, instead, using encrypted ones (MPEG-DASH). Remember, this guide is not used to bypass DRM and doesn't provide Free Links - you need your own account.
+This is a m3u8 playlist file for Unifi playTV / Unifi TV. These links don't use normal HLS / MPEG-TS Livestreams, instead, using encrypted ones (MPEG-DASH). Remember, this guide is not used to bypass DRM and doesn't provide Free Links - you need your own account.  
+  
+Note that this is also another way to watch Unifi TV through TiviMate through Telekom Malaysia's official servers. It is not required to install the official Unifi TV app.
 
 # Tested on what device / app?
 Works well on Tivimate v2.8.0 and TVirl (Xiaomi Mi Box S).
 ## What Internet Connection?
-Tested on Unifi Air. It will play on multiple resolutions according to the Internet speed (ranging from 576p to 1080p). Unifi Fibre Broadband might get better speeds when playing. IMPORTANT: Not tested on Maxis.
+Tested on Unifi Air. It will play on multiple resolutions according to the Internet speed (ranging from 576p to 1080p). Unifi Fibre Broadband might get better speeds when playing.
+
+# Do you have some of the screenshots for these channels?
+[Screenshots from TiviMate (Channels with subtitles)](https://github.com/weareblahs/unifi-playtv-mpd/screenshots/tivimate.md)  
+[Screenshots from generic MPD player](https://github.com/weareblahs/unifi-playtv-mpd/screenshots/mpd.md)
 
 # Other special stuffs?
 Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Subtitles (Mostly Malay / Chinese), Adaptive Resolution (automatic resolution switching according to your Internet connection).
@@ -13,7 +19,7 @@ Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Sub
 128Kbps AAC Audio, H264 Video (Bitrate depends on resolution), Maximum Resolution is 1920x1080.
 
 # Is there cons?
-Unable to record, DRM-protected Streams (Widevine / PlayReady), Not HTTPS, Subtitles won't work on apps other than Tivimate.
+Unable to record, DRM-protected Streams (Widevine / PlayReady), Not HTTPS, Subtitles won't work on apps other than Tivimate, no timeshift.
 
 # Information
 Please note that these links can be only accessed through a Widevine Server. Instructions on how to get the server URL below.
