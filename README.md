@@ -9,8 +9,8 @@ Works well on Tivimate v2.8.0 and TVirl (Xiaomi Mi Box S).
 Tested on Unifi Air. It will play on multiple resolutions according to the Internet speed (ranging from 576p to 1080p). Unifi Fibre Broadband might get better speeds when playing.
 
 # Do you have some of the screenshots for these channels?
-[Screenshots from TiviMate (Channels with subtitles)](https://github.com/weareblahs/unifi-playtv-mpd/screenshots/tivimate.md)  
-[Screenshots from generic MPD player](https://github.com/weareblahs/unifi-playtv-mpd/screenshots/mpd.md)
+[Screenshots from TiviMate (Channels with subtitles)](https://github.com/weareblahs/unifi-playtv-mpd/blob/main/screenshots/tivimate.md)  
+[Screenshots from generic MPD player](https://github.com/weareblahs/unifi-playtv-mpd/blob/main/screenshots/mpd.md)
 
 # Other special stuffs?
 Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Subtitles (Mostly Malay / Chinese), Adaptive Resolution (automatic resolution switching according to your Internet connection).
