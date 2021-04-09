@@ -1,5 +1,5 @@
 # What's this?
-This is a m3u8 playlist file for Unifi playTV / Unifi TV. These links don't use normal HLS / MPEG-TS Livestreams, instead, using encrypted ones (MPEG-DASH). Remember, this guide is not used to bypass DRM and doesn't provide Free Links - you need your own account.  
+This is a m3u8 playlist file for Unifi playTV / Unifi TV. These links don't use normal HLS / MPEG-TS Livestreams, instead, using encrypted ones (MPEG-DASH). Remember, this guide is not used to bypass DRM and doesn't provide Free Links - you need your own unifi TV subscription.  
   
 Note that this is also another way to watch Unifi TV through TiviMate through Telekom Malaysia's official servers. It is not required to install the official Unifi TV app.
 
@@ -49,7 +49,7 @@ Please note that these links can be only accessed through a Widevine Server. Ins
 ### Before we start the importing
 NOTE: This playlist only supports TiviMate, PVR Live and TVirl.
 1. Upload the file to Dropbox / Github / Any file hosting service that support direct link
-     - You can also use HFS
+     - You can also use HFS. I'm using HFS for m3u8 Transfer through local network. [See the guide by clicking here](https://github.com/weareblahs/unifi-playtv-mpd/blob/main/guide/hfs.md)
      - Offline options: Use File Commander to transfer the playlist to your TV / TV Box
 ### Uploading your playlist into Dropbox for Tivimate Access
 1. Sign in into Dropbox
