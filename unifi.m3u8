@@ -11,7 +11,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 HD
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD
 http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -166,7 +166,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/551.png",National Geographic HD
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic HD
 http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -293,3 +293,58 @@ http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV HD
 http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",Euronews
+http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080719495046uu.png",Channel NewsAsia HD
+http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png",BBC World News HD
+http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
+http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",Luxe.TV HD
+http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png",ABC Australia
+http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533_300.png",Al Jazeera HD
+http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160704507932rh.png",NHK WORLD-JAPAN HD
+http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png",France24 HD
+http://1.9.62.158/PLTV/88888888/224/3221227629/3221227629.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
+http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/514_300.png",Sky News HD
+http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd
