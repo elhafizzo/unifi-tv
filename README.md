@@ -9,8 +9,8 @@ Works well on Tivimate v2.8.0 and TVirl (Xiaomi Mi Box S).
 Tested on Unifi Air. It will play on multiple resolutions according to the Internet speed (ranging from 576p to 1080p). Unifi Fibre Broadband might get better speeds when playing.
 
 # Do you have some of the screenshots for these channels?
-[Screenshots from TiviMate (Channels with subtitles)](https://github.com/weareblahs/unifi-playtv-mpd/blob/main/screenshots/tivimate.md)  
-[Screenshots from generic MPD player](https://github.com/weareblahs/unifi-playtv-mpd/blob/main/screenshots/mpd.md)
+[Screenshots from TiviMate (Channels with subtitles)](https://github.com/weareblahs/unifi-tv/blob/main/screenshots/tivimate.md)  
+[Screenshots from generic MPD player](https://github.com/weareblahs/unifi-tv/blob/main/screenshots/mpd.md)
 
 # Other special stuffs?
 Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Subtitles (Mostly Malay / Chinese), Adaptive Resolution (automatic resolution switching according to your Internet connection).
@@ -35,10 +35,10 @@ Please note that these links can be only accessed through a Widevine Server. Ins
 4. That's it, you have the Widevine URL. Let's get into the next step.
 
 ## Download the m3u8 file and modify the inputstream.adaptive.license_key to the Widevine Server URL
-1. Download "unifi.m3u8" by [clicking here](https://github.com/weareblahs/unifi-playtv-mpd/raw/main/unifi.m3u8).
-      - Using wget? then copy the command: ```wget https://github.com/weareblahs/unifi-playtv-mpd/raw/main/unifi.m3u8```
-      - Or you're using aria2c? then copy the command: ```aria2c https://github.com/weareblahs/unifi-playtv-mpd/raw/main/unifi.m3u8```
-      - Directly opening this playlist in notepad? Follow these steps: ```Open Notepad > Ctrl + O > Paste "https://github.com/weareblahs/unifi-playtv-mpd/raw/main/unifi.m3u8" into the File Name section > Open```
+1. Download "unifi.m3u8" by [clicking here](https://github.com/weareblahs/unifi-tv/raw/main/unifi.m3u8).
+      - Using wget? then copy the command: ```wget https://github.com/weareblahs/unifi-tv/raw/main/unifi.m3u8```
+      - Or you're using aria2c? then copy the command: ```aria2c https://github.com/weareblahs/unifi-tv/raw/main/unifi.m3u8```
+      - Directly opening this playlist in notepad? Follow these steps: ```Open Notepad > Ctrl + O > Paste "https://github.com/weareblahs/unifi-tv/raw/main/unifi.m3u8" into the File Name section > Open```
 3. Open it with Notepad. (SHORTCUT: Windows key + R > notepad > Enter)
 4. In notepad, press "Ctrl + H" (Replace).
       - In "Find What", type in "WIDEVINE_SERVER_URL_HERE".
@@ -49,7 +49,7 @@ Please note that these links can be only accessed through a Widevine Server. Ins
 ### Before we start the importing
 NOTE: This playlist only supports TiviMate, PVR Live and TVirl.
 1. Upload the file to Dropbox / Github / Any file hosting service that support direct link
-     - You can also use HFS. I'm using HFS for m3u8 Transfer through local network. [See the guide by clicking here](https://github.com/weareblahs/unifi-playtv-mpd/blob/main/guide/hfs.md)
+     - You can also use HFS. I'm using HFS for m3u8 Transfer through local network. [See the guide by clicking here](https://github.com/weareblahs/unifi-tv/blob/main/guide/hfs.md)
      - Offline options: Use File Commander to transfer the playlist to your TV / TV Box
 ### Uploading your playlist into Dropbox for Tivimate Access
 1. Sign in into Dropbox
