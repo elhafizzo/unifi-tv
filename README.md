@@ -64,7 +64,8 @@ NOTE: This playlist only supports TiviMate, PVR Live and TVirl.
 2. Select "Enter URL", then type in the link that you've generated.
 3. Select "Next".
 4. Follow the steps.
-5. You're ready to watch!
+    - When asked for XMLTV URL, type / paste "https://weareblahs.github.io/epg/unifitv.xml".
+6. You're ready to watch!
 
 # EPG?
-Only available for several channels (EPG from Astro / SingtelTV) - not available for Unifi Sports channels. Coming soon. I will be uploading it to the weareblahs/epg repository.
+EPG Link for partial channels: https://weareblahs.github.io/epg/unifitv.xml
