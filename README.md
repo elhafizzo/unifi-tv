@@ -1,3 +1,5 @@
+![Cover Image](https://i.ibb.co/PmYn5c5/image.png)
+
 # What's this?
 This is a m3u8 playlist file for Unifi playTV / Unifi TV. These links don't use normal HLS / MPEG-TS Livestreams, instead, using encrypted ones (MPEG-DASH). Remember, this guide is not used to bypass DRM and doesn't provide Free Links - you need your own unifi TV subscription.  
   
