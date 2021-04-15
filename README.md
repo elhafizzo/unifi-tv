@@ -1,6 +1,6 @@
 ![Cover Image](https://i.ibb.co/PmYn5c5/image.png)
 
-# Found new channels?
+# Found new channels? ![](https://img.shields.io/github/issues/weareblahs/epg "Current Issue Counter")
 [Submit an issue here and tag "Found Channel"](https://github.com/weareblahs/unifi-tv/issues)
 # What's this?
 This is a m3u8 playlist file for Unifi playTV / Unifi TV. These links don't use normal HLS / MPEG-TS Livestreams, instead, using encrypted ones (MPEG-DASH). Remember, this guide is not used to bypass DRM and doesn't provide Free Links - you need your own unifi TV subscription.  
@@ -23,7 +23,7 @@ Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Sub
 128Kbps AAC Audio, H264 Video (Bitrate depends on resolution), Maximum Resolution is 1920x1080.
 
 # Is there cons?
-Unable to record, DRM-protected Streams (Widevine / PlayReady), Not HTTPS, no timeshift although the link is capable of timeshifting.
+Unable to record, DRM-protected Streams (Widevine / PlayReady), Not HTTPS, no timeshift although the link is capable of timeshifting, Channel won't follow channel number on TiviMate
 
 # Recommended Players
 Tivimate, TVirl
