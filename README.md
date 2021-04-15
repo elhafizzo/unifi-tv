@@ -25,14 +25,11 @@ Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Sub
 # Is there cons?
 Unable to record, DRM-protected Streams (Widevine / PlayReady), Not HTTPS, no timeshift although the link is capable of timeshifting, Channel won't follow channel number on TiviMate
 
-# Recommended Players
-Tivimate, TVirl
-
-# Other players that can play this playlist
-PVR Live, Kodi (with InputStream Adaptive enabled), [Native MPEG-DASH / HLS Player](https://chrome.google.com/webstore/detail/native-mpeg-dash-+-hls-pl/cjfbmleiaobegagekpmlhmaadepdeedn?hl=en) (You have to insert your Widevine license URL when requested)
+# Players that can play this playlist
+Tivimate, TVirl, PVR Live, [Native MPEG-DASH / HLS Player](https://chrome.google.com/webstore/detail/native-mpeg-dash-+-hls-pl/cjfbmleiaobegagekpmlhmaadepdeedn?hl=en) (You have to insert your Widevine license URL when requested)
 
 # Known players that can't play this playlist
-Kodi without InputStream Adaptive installed and enabled), VLC, IPTV Smarters, CosmiDVR (Signal Weak = 403 Access Denied error), Ultimate IPTV Playlist Loader, OTT Navigator, Startup Show, Media Player Classic Home Cinema
+Kodi, VLC, IPTV Smarters, CosmiDVR (Signal Weak = 403 Access Denied error), Ultimate IPTV Playlist Loader, OTT Navigator, Startup Show, Media Player Classic Home Cinema
 
 # Information
 Please note that these links can be only accessed through a Widevine Server (for authorizing). Instructions below.
