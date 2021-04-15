@@ -7,3 +7,4 @@ Here are the list of channels that I found through the URL, but haven't added ye
 3221227726 (FOX Sports 2)  
 3221227620 (Warner TV)  
 3221227718 (Sky News HD)  
+3221227601 (Hypp Inspirasi)
