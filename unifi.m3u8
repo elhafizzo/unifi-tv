@@ -136,7 +136,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 tvg-id="552" tvg-chno="552" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/617.png",Nick Jr
+#EXTINF:-1 tvg-id="552" tvg-chno="552" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/201907080716212262b1.png",Nick Jr
 http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -326,7 +326,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 tvg-chno="602" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533_300.png",Al Jazeera HD
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201910/20191016/20191016083900196xiv.png",Al Jazeera HD
 http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
