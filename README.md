@@ -48,7 +48,8 @@ Tested on Unifi Air. It will play on multiple resolutions according to the Inter
 - Media Player Classic Home Cinema (uses youtube-dl to get mpd playlist, however, there's no option for inserting license ID)
 
 # Information
-Please note that these links can be only accessed through a Widevine Server (for authorizing). Instructions below.
+Please note that these links can be only accessed through a Widevine Server (for authorizing). Instructions below.  
+**Note that the Widevine Server URL changes every 3-7 days**, so you have to follow the steps below regularly if you want to continue using this playlist.
 
 # And now, the ultimate guide for this particular playlist
 ## Get Widevine Server URL
