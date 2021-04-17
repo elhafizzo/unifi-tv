@@ -16,20 +16,37 @@ Tested on Unifi Air. It will play on multiple resolutions according to the Inter
 [Screenshots from TiviMate (Channels with subtitles)](https://github.com/weareblahs/unifi-tv/blob/main/screenshots/tivimate.md)  
 [Screenshots from generic MPD player](https://github.com/weareblahs/unifi-tv/blob/main/screenshots/mpd.md)
 
-# Other special stuffs?
-Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages), Subtitles (Mostly Malay / Chinese), Adaptive Resolution (automatic resolution switching according to your Internet connection).
+# Other features?
+- Multiple Audio (if any, mostly Malay / Chinese / English / Other Languages)
+- Subtitles (Mostly Malay / Chinese),
+- Adaptive Resolution (automatic resolution switching according to your Internet connection)
+- **NEW!** Channel Categories (thanks to @dysoct)
 
 # Known Technical Specs?
-128Kbps AAC Audio, H264 Video (Bitrate depends on resolution), Maximum Resolution is 1920x1080.
+- 128Kbps AAC Audio
+- H264 Video (Bitrate depends on resolution)
+- Maximum Resolution is 1920x1080
 
 # Is there cons?
-Unable to record, DRM-protected Streams (Widevine / PlayReady), Not HTTPS, no timeshift although the link is capable of timeshifting, Channel won't follow channel number on TiviMate
+- Unable to record
+- DRM-protected Streams (Widevine / PlayReady)
+- No timeshift although the link is capable of timeshifting, 
+- Channel won't follow channel number, but follows the channel sequence on Tivimate (also thanks to @dysoct)
 
 # Players that can play this playlist
-Tivimate, TVirl, PVR Live, [Native MPEG-DASH / HLS Player](https://chrome.google.com/webstore/detail/native-mpeg-dash-+-hls-pl/cjfbmleiaobegagekpmlhmaadepdeedn?hl=en) (You have to insert your Widevine license URL when requested)
+- Tivimate
+- TVirl, PVR Live
+- [Native MPEG-DASH / HLS Player](https://chrome.google.com/webstore/detail/native-mpeg-dash-+-hls-pl/cjfbmleiaobegagekpmlhmaadepdeedn?hl=en) (You have to insert your Widevine license URL when requested)
 
 # Known players that can't play this playlist
-Kodi, VLC, IPTV Smarters, CosmiDVR (Signal Weak = 403 Access Denied error), Ultimate IPTV Playlist Loader, OTT Navigator, Startup Show, Media Player Classic Home Cinema
+- Kodi
+- VLC
+- IPTV Smarters
+- CosmiDVR (Signal Weak = 403 Access Denied error)
+- Ultimate IPTV Playlist Loader
+- OTT Navigator
+- Startup Show
+- Media Player Classic Home Cinema
 
 # Information
 Please note that these links can be only accessed through a Widevine Server (for authorizing). Instructions below.
