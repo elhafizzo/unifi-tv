@@ -281,7 +281,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="News" tvg-id="601" tvg-chno="602" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201910/20191016/20191016083900196xiv.png",Al Jazeera
+#EXTINF:-1 group-title="News" tvg-id="602" tvg-chno="602" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201910/20191016/20191016083900196xiv.png",Al Jazeera
 http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
