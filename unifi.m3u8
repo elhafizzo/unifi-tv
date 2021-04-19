@@ -111,12 +111,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Indian Variety" tvg-id="CHN" tvg-chno="312" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png",Polimer
+#EXTINF:-1 group-title="Indian Variety" tvg-id="312" tvg-chno="312" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607250947892o.png",Polimer
 http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Indian Variety" tvg-id="CHN" tvg-chno="313" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max
+#EXTINF:-1 group-title="Indian Variety" tvg-id="313" tvg-chno="313" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png",Jaya Max
 http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -126,7 +126,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Movies" tvg-id="CHN" tvg-chno="333" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
+#EXTINF:-1 group-title="Movies" tvg-id="333" tvg-chno="333" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
 http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -166,7 +166,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Movies" tvg-id="CHN" tvg-chno="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
+#EXTINF:-1 group-title="Movies" tvg-id="411" tvg-chno="411" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld HD
 http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -236,7 +236,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Lifestyle & Knowledge" tvg-id="CHN" tvg-chno="529" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",Luxe.TV HD
+#EXTINF:-1 group-title="Lifestyle & Knowledge" tvg-id="529" tvg-chno="529" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",Luxe.TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
