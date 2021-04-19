@@ -271,7 +271,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Kids" tvg-id="562" tvg-chno="562" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/618.png",Baby TV HD
+#EXTINF:-1 group-title="Kids" tvg-id="562" tvg-chno="562" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/jIqA6LxA",Baby TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
