@@ -46,6 +46,7 @@ Tested on Unifi Air. It will play on multiple resolutions according to the Inter
 - CosmiDVR (Signal Weak = 403 Access Denied error)
 - OTT Navigator (HLS / MPEG-TS only)
 - Media Player Classic Home Cinema (uses youtube-dl to get mpd playlist, however, there's no option for inserting license ID)
+- Televizo
 
 # Information
 Please note that these links can be only accessed through a Widevine Server (for authorizing). Instructions below.  
