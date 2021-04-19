@@ -146,17 +146,17 @@ http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413.png",FOX Movies HD
+#EXTINF:-1 group-title="Movies" tvg-id="401" tvg-chno="401" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Movies" tvg-id="402" tvg-chno="402" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/415.png",FOX Action Movies HD
+#EXTINF:-1 group-title="Movies" tvg-id="402" tvg-chno="402" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/nTbDkLcm",FOX Action Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="Movies" tvg-id="403" tvg-chno="403" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/414.png",FOX Family Movies HD
+#EXTINF:-1 group-title="Movies" tvg-id="403" tvg-chno="403" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve",FOX Family Movies HD
 http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -286,7 +286,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
-#EXTINF:-1 group-title="News" tvg-id="603" tvg-chno="603" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/514_300.png",Sky News HD
+#EXTINF:-1 group-title="News" tvg-id="603" tvg-chno="603" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cqNKlcyp",Sky News HD
 http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
