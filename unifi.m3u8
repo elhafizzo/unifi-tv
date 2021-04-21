@@ -7,7 +7,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
-http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd
+http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=WIDEVINE_SERVER_URL_HERE
