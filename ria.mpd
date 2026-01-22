@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="urn:mpeg:dash:schema:mpd:2011"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+	profiles="urn:mpeg:dash:profile:isoff-live:2011"
+	type="dynamic"
+	minimumUpdatePeriod="PT2S"
+	suggestedPresentationDelay="PT2S"
+	availabilityStartTime="2026-01-22T02:39:30.303Z"
+	publishTime="2026-01-22T09:43:09.949Z"
+	timeShiftBufferDepth="PT1M0.0S"
+	maxSegmentDuration="PT1.0S"
+	minBufferTime="PT4.0S">
+	<ProgramInformation>
+	</ProgramInformation>
+	<ServiceDescription id="0">
+	</ServiceDescription>
+	<Period id="0" start="PT0.0S">
+		<AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+			<Representation id="0" mimeType="video/mp4" codecs="avc1.640029" bandwidth="3136217" width="1280" height="720" scanType="unknown" sar="1:1">
+				<SegmentTemplate timescale="12800" initialization="init_$RepresentationID$.mp4" media="chunk_$RepresentationID$_$Number$.m4s" startNumber="13453">
+					<SegmentTimeline>
+						<S t="324582989" d="25600" r="16" />
+						<S d="21504" />
+						<S d="29696" />
+						<S d="25600" r="1" />
+						<S d="13824" />
+						<S d="37376" />
+						<S d="25600" r="6" />
+					</SegmentTimeline>
+				</SegmentTemplate>
+			</Representation>
+		</AdaptationSet>
+		<AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+			<Representation id="1" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="96000" audioSamplingRate="48000">
+				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+				<SegmentTemplate timescale="48000" initialization="init_$RepresentationID$.mp4" media="chunk_$RepresentationID$_$Number$.m4s" startNumber="25323">
+					<SegmentTimeline>
+						<S t="1218696160" d="48160" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48160" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48160" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48160" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48160" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+						<S d="48112" />
+						<S d="48128" />
+					</SegmentTimeline>
+				</SegmentTemplate>
+			</Representation>
+		</AdaptationSet>
+	</Period>
+</MPD>
